@@ -4,6 +4,9 @@ import { IoPersonOutline } from "react-icons/io5";
 import Btn from "../components/Btn";
 // import logo from ""
 export default function NavBar() {
+
+  console.log("git hello");
+  
   return (
     <div className="bg-transparent px-20 py-5 flex justify-between w-full absolute top-0 left-0">
       <div className=" flex gap-12 items-center">
