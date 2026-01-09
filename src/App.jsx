@@ -5,6 +5,7 @@ import Footer from "./module/Footer";
 
 export default function App() {
   console.log("birinchi o'quvchi ishini tugatti");
+  console.log("ikkinchi o'quchini commiti");
   
   return (
     <div className="">
